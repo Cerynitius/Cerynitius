@@ -16,19 +16,17 @@ I'm a developer who enjoys building practical tools, exploring new technologies,
 - Developer Experience
 - Open Source Collaboration
 
+## Tech Stack
+
+- Languages: Python, JavaScript, TypeScript, C++, Java
+- Frameworks & Tools: Node.js, Git, GitHub, Linux
+- Interests: Automation, Backend Development, Developer Tools, Open Source
+
 ## What I'm Working On
 
 - Building and refining personal projects
 - Learning new tools, frameworks, and workflows
 - Exploring better ways to ship reliable software
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cerynitius&show_icons=true&theme=tokyonight)
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerynitius&layout=compact&theme=tokyonight)
 
 ## Let's Connect
 
