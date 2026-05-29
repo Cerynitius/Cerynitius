@@ -4,8 +4,8 @@ I'm a developer focused on building and experimenting with Python projects, LLM-
 
 ## About Me
 
-- 💻 I primarily work with Python and practical software projects
-- 🤖 Interested in LLMs, agent systems, and AI-oriented experimentation
+- 💻 I primarily work with Python and experimental software projects
+- 🤖 Interested in LLMs, VLMs, agent systems, and AI-oriented experimentation
 - 🌱 Continuously learning by building, testing, and refining projects
 - 🚀 Exploring how intelligent systems can be applied in real workflows
 
@@ -35,7 +35,8 @@ I'm a developer focused on building and experimenting with Python projects, LLM-
 ## Let's Connect
 
 Feel free to explore my repositories and see what I'm building.
+Connect with me on ruixiu_zhang@outlook.com
 
 ---
 
-> Build with curiosity. Learn through projects.
+> Learn through projects.
