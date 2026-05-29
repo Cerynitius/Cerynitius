@@ -11,7 +11,7 @@ I'm a developer focused on building and experimenting with Python projects, LLM-
 
 ## Focus Areas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![LLM / AI](https://img.shields.io/badge/LLM%20%2F%20AI-6A5ACD?style=for-the-badge)
 ![Agent Systems](https://img.shields.io/badge/Agent%20Systems-0A66C2?style=for-the-badge)
 ![Training / Experimentation](https://img.shields.io/badge/Training%20%2F%20Experimentation-8A2BE2?style=for-the-badge)
