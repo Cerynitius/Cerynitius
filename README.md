@@ -27,7 +27,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM_Studio-6B4FBB?style=flat-square&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-6B4FBB?style=flat-square&logo=cplusplus&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
 
 ### Frameworks & Libraries
