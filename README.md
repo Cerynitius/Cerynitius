@@ -18,9 +18,11 @@ I'm a developer who enjoys building practical tools, exploring new technologies,
 
 ## Tech Stack
 
-- Languages: Python, JavaScript, TypeScript, C++, Java
-- Frameworks & Tools: Node.js, Git, GitHub, Linux
-- Interests: Automation, Backend Development, Developer Tools, Open Source
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## What I'm Working On
 
