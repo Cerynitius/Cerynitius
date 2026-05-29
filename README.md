@@ -1,5 +1,6 @@
 # Hi there, I'm Cerynitius 👋
 
+I am a high school developer, currently interning with a research group. 
 I build Python-based projects around LLM applications, agent systems, and practical AI experimentation.
 
 ## About Me
@@ -24,11 +25,17 @@ I build Python-based projects around LLM applications, agent systems, and practi
 - AI training practice and applied experimentation
 - Project-driven learning through building and iteration
 
+## What I Am Exploring
+
+- VLMs
+- New structure for developing intelligence
+- Production-oriented softwares
+
 ## Connect
 
 Feel free to explore my repositories and follow the projects I'm building.
 
-ruixiu_zhang@outlook.com
+I welcome opportunities for collaboration; please contact me via email: ruixiu_zhang@outlook.com
 
 ---
 
